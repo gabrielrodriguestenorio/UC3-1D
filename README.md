@@ -4,10 +4,30 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
+----------------------------------------------------------------------------------
+### Conteúdo 1 - Variáveis 
+#### O primeiro conteúdo que aprendemos foram as variáveis.
 ```js
-console.log('abacate')
+var = "variávelVar"
+let = "variávelLet"
+Const = "variávelConst"
 ```
-## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+##### *As variáveis que aprendemos*
 
 
+## Atividades desenvolvidas 
+----------------------------------------------------------------------------------
+### Atvidade 1 - Lanche - 12/08/2024
+
+Atividade que envolvia criar um éspecie de algoritmo simples interage com o usuário no contexto de um atendimento de fastfood/restaurante
+O principal conhecimento estudado nessa atividade foi a estrutura condicional if/else
+Abaixo está um trecho do código que usa o if/else
+
+```js
+if(combo == "sim") {
+  console.log(`Parabéns, ${nome}, você ganhou um brinde!`)
+} else {
+  console.log('Ok, volte sempre!')
+}
+```
+----------------------------------------------------------------------------------

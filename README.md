@@ -4,8 +4,10 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
-
-
-
+```js
+console.log('abacate')
+```
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+

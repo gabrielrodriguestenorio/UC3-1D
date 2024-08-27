@@ -10,7 +10,7 @@ Escreva aqui os conteúdos aprendidos.
 ```js
 var = "variávelVar"
 let = "variávelLet"
-Const = "variávelConst"
+const = "variávelConst"
 ```
 ##### *As variáveis que aprendemos*
 

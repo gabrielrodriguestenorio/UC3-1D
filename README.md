@@ -4,7 +4,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
-----------------------------------------------------------------------------------
+__________________________________________________________________________________
 ### Conteúdo 1 - Variáveis 
 #### O primeiro conteúdo que aprendemos foram as variáveis.
 ```js
@@ -16,7 +16,7 @@ const = "variávelConst"
 
 
 ## Atividades desenvolvidas 
-----------------------------------------------------------------------------------
+__________________________________________________________________________________
 ### Atvidade 1 - Lanche - 12/08/2024
 
 Atividade que envolvia criar um éspecie de algoritmo simples interage com o usuário no contexto de um atendimento de fastfood/restaurante
@@ -30,4 +30,4 @@ if(combo == "sim") {
   console.log('Ok, volte sempre!')
 }
 ```
-----------------------------------------------------------------------------------
+__________________________________________________________________________________

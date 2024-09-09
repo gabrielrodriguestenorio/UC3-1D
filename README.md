@@ -19,9 +19,9 @@ const = "variávelConst"
 __________________________________________________________________________________
 ### Atvidade 1 - Lanche - 12/08/2024
 
-Atividade que envolvia criar um éspecie de algoritmo simples interage com o usuário no contexto de um atendimento de fastfood/restaurante
-O principal conhecimento estudado nessa atividade foi a estrutura condicional if/else
-Abaixo está um trecho do código que usa o if/else
+Atividade que envolvia criar um éspecie de algoritmo simples interage com o usuário no contexto de um atendimento de fastfood/restaurante.
+O principal conhecimento estudado nessa atividade foi a estrutura condicional if/else.
+Abaixo está um trecho do código que usa o if/else.
 
 ```js
 if(combo == "sim") {

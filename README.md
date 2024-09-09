@@ -1,4 +1,4 @@
-![AppleFruitGIF](https://github.com/user-attachments/assets/6e3c55df-e3b5-40f7-bada-67d264dbd80a)# Caderno virtual - Lógica da Programação e Algoritmos
+# Caderno virtual - Lógica da Programação e Algoritmos
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 

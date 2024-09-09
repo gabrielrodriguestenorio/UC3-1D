@@ -6,16 +6,17 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 Escreva aqui os conteúdos aprendidos.
 __________________________________________________________________________________
 ### Conteúdo 1 - Variáveis 
-#### O primeiro conteúdo que aprendemos foram as variáveis. Aprendemos suas definiçições e as melhores situações para usar cada uma delas.
+O primeiro conteúdo que aprendemos foram as variáveis. Aprendemos suas definiçições e as melhores situações para usar cada uma delas.
 ```js
 var = "variávelVar"
 let = "variávelLet"
 const = "variávelConst"
 ```
 ##### ↑ *As variáveis que aprendemos*
+A variável *var* geralmente tem escopo global, podendo ser modificada e atualizada em qualquer parte do código. Mas ela pode também assumir o escopo de função, caso seja declarada dentro de uma
 __________________________________________________________________________________
 ### Conteúdo 2 - Operadores de Comparação, Lógicos e Matemáticos
-#### O segundo conteúdo que aprendemos foram os operadores (no geral). Aprendemos as diferenças de cada um e suas respectivas aplicações.
+O segundo conteúdo que aprendemos foram os operadores (no geral). Aprendemos as diferenças de cada um e suas respectivas aplicações.
 ##### Os primeiros que aprendemos foram os de Comparação.
 ```js
 1 == "1"           // igual valor - "=="
@@ -41,7 +42,7 @@ ________________________________________________________________________________
 ```
 __________________________________________________________________________________
 ### Conteúdo 3 - If/Else
-#### Outro conteúdo vivenciado foi a estrutura condicional If/Else. Aprendemos a usar parâmetros condicionais e/ou comparativos junto com essa estrutura para criar códigos com finalidade restrita/condicional.
+Outro conteúdo vivenciado foi a estrutura condicional If/Else. Aprendemos a usar parâmetros condicionais e/ou comparativos junto com essa estrutura para criar códigos com finalidade restrita/condicional.
 ```js
 const idade = prompt("Qual sua idade?")
 if (idade >= 18) {
@@ -51,7 +52,7 @@ if (idade >= 18) {
 }
 ```
 ##### ↑ *Exemplo de código usando a estrutura If/Else*
-#### Apredemos também a usar o *Else if* na estrutura If/Else.
+Apredemos também a usar o *Else if* na estrutura If/Else.
 ```js
 const fruta = prompt("Digite uma fruta.")
 if (fruta == "maçã") {

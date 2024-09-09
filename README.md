@@ -1,4 +1,4 @@
-# Caderno virtual - Lógica da Programação e Algoritmos
+![AppleFruitGIF](https://github.com/user-attachments/assets/6e3c55df-e3b5-40f7-bada-67d264dbd80a)# Caderno virtual - Lógica da Programação e Algoritmos
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 
@@ -12,7 +12,7 @@ var = "variávelVar"
 let = "variávelLet"
 const = "variávelConst"
 ```
-##### *As variáveis que aprendemos*
+##### ↑ *As variáveis que aprendemos*
 __________________________________________________________________________________
 ### Conteúdo 2 - Operadores de Comparação, Lógicos e Matemáticos
 #### O segundo conteúdo que aprendemos foram os operadores (no geral). Aprendemos as diferenças de cada um e suas respectivas aplicações.
@@ -39,6 +39,36 @@ ________________________________________________________________________________
 1 + 2 == 3 && 2 + 4 == 6   // primeira condição E segunda condição "&&"
 1 + 2 == 3 || 2 + 4 == 6   // primeira condição OU segunda condição "||"
 ```
+__________________________________________________________________________________
+### Conteúdo 3 - If/Else
+#### Outro conteúdo vivenciado foi a estrutura condicional If/Else. Aprendemos a usar parâmetros condicionais e/ou comparativos junto com essa estrutura para criar códigos com finalidade restrita/condicional.
+```js
+const idade = prompt("Qual sua idade?")
+if (idade >= 18) {
+ console.log("Você é maior de idade")
+} else {
+ console.log("Você não é maior de idade")
+}
+```
+##### ↑ *Exemplo de código usando a estrutura If/Else*
+#### Apredemos também a usar o *Else if* na estrutura If/Else.
+```js
+const fruta = prompt("Digite uma fruta.")
+if (fruta == "maçã") {
+ console.log("A sua fruta é a maçã! 🍎")
+} else if (fruta == "banana") {
+ console.log("A sua fruta á a banana! 🍌")
+} else if (fruta == "laranja") {
+ console.log("A sua fruta á a laranja! 🍊")
+} else if (fruta == "uva") {
+ console.log("A sua fruta á a uva! 🍇")
+} else {
+ console.log("Não conheço essa fruta ):"
+}
+```
+##### ↑ *Exemplo de código usando a estrutura If/Else e Else if*
+__________________________________________________________________________________
+
 ## Atividades desenvolvidas 
 __________________________________________________________________________________
 ### Atvidade 1 - Lanche - 12/08/2024

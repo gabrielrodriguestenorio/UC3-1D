@@ -1,4 +1,5 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
+## Gabriel Rodrigues Tenório
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
 

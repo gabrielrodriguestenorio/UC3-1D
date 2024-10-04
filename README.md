@@ -15,7 +15,11 @@ let = "variávelLet"
 const = "variávelConst"
 ```
 ##### ↑ *As variáveis que aprendemos*
-A variável *var* geralmente tem escopo global, podendo ser modificada e atualizada em qualquer parte do código. Mas ela pode também assumir o escopo de função, caso seja declarada dentro de uma
+VAR - A variável *var* geralmente tem escopo global, podendo ser modificada e atualizada em qualquer parte do código. Mas ela pode também assumir o escopo de bloco, caso seja declarada dentro de um.
+
+LET - A variável *let* naturalmente tem um escopo de bloco, mas pode ser modificada de algumas maneiras.
+
+CONST - A constante *const* difere-se das outras variáveis por ser imutável, ou seja, sendo impossível modificar o seu valor inicial. O *const* também possui o escopo de bloco.
 __________________________________________________________________________________
 ### Conteúdo 2 - Operadores de Comparação, Lógicos e Matemáticos
 O segundo conteúdo que aprendemos foram os operadores (no geral). Aprendemos as diferenças de cada um e suas respectivas aplicações.

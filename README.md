@@ -25,26 +25,26 @@ ________________________________________________________________________________
 O segundo conteúdo que aprendemos foram os operadores (no geral). Aprendemos as diferenças de cada um e suas respectivas aplicações.
 ##### Os primeiros que aprendemos foram os de Comparação.
 ```js
-1 == "1"           // igual valor - "=="
-1 === 1            // igual valor e tipo de dado - "==="
-1 > 0              // maior que - ">"
-1 < 2              // menor que - "<"
-(1 >= 1) (1 >= 2)  // maior ou igual a - ">="
-(1 <= 1) (1 <= 0)  // menor ou igual a - "<="
-1 != 2             // diferente valor - "!="
-1 !== "2"          // diferente valor e tipo de dado - "!=="
+1 == "1"           // Igual valor - "=="
+1 === 1            // Igual valor e tipo de dado - "==="
+1 > 0              // Maior que - ">"
+1 < 2              // Menor que - "<"
+(1 >= 1) (1 >= 2)  // Maior ou igual a - ">="
+(1 <= 1) (1 <= 0)  // Menor ou igual a - "<="
+1 != 2             // Diferente valor - "!="
+1 !== "2"          // Diferente valor e tipo de dado - "!=="
 ```
 ##### Em seguida, os Matemáticos.
 ```js
-2 + 4 == 6         // adicionar ao valor - "+"
-2 - 4 == 2         // subtrair do valor - "-"
-2*4 == 8           // multiplicar o valor - "*"
-2/4 == 2           // dividir o valor - "/"
+2 + 4 == 6         // Adicionar ao valor - "+"
+2 - 4 == 2         // Subtrair do valor - "-"
+2*4 == 8           // Multiplicar o valor - "*"
+2/4 == 2           // Dividir o valor - "/"
 ```
 ##### E por último, mas não menos importante, os lógicos.
 ```js
-1 + 2 == 3 && 2 + 4 == 6   // primeira condição E segunda condição "&&"
-1 + 2 == 3 || 2 + 4 == 6   // primeira condição OU segunda condição "||"
+1 + 2 == 3 && 2 + 4 == 6   // Primeira condição E segunda condição "&&"
+1 + 2 == 3 || 2 + 4 == 6   // Primeira condição OU segunda condição "||"
 ```
 __________________________________________________________________________________
 ### Conteúdo 3 - If/Else

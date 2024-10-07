@@ -75,10 +75,30 @@ if (fruta == "maçã") {
 ```
 ##### ↑ *Exemplo de código usando a estrutura If/Else e Else if*
 __________________________________________________________________________________
+### Conteúdo 3 - Arrays
+
+Depois dO If/Else nós aprendemos a usar as **arrays**. Primeiro criamos uma array básica, usando livros como referência. As arrays nada mais são do que "lista de objetos" que contém vários elementos, estes elementos são como valores "embutidos" na array, e são intrínsecos à ela.
+```js
+const livros = ["Javascript Assertivo", "ECMAScript", "MongoDB", "Death Note",
+"Ordem Paranormal RPG: Sobrevivendo ao Horror", "Duna", "Uma breve História da Ciência"]
+```
+#### ↑ *Array que utilizei na primeira aula*
+
+Aprendemos também certos métodos básicos que podemos utilizar com as arrays, como o ".length", o ".sort()", o ".join()", entre outros.
+```js
+const produtos = ["Caixa de som", "Rádio", "Televisão", "Monitor", "Teclado", "Mouse"]
+const seçãoSalaDeEstar = produtos.slice(0,3)
+
+console.log(seçãoSalaDeEstar)
+
+// Output: [object Array] (3) ["Caixa de som","Rádio","Televisão"]
+```
+##### ↑ *Exemplo de array utilizando o método ".slice()*
+__________________________________________________________________________________
 
 ## Atividades desenvolvidas 
 __________________________________________________________________________________
-### Atvidade 1 - Lanche - 12/08/2024
+### Atvidade 1 - Lanche
 
 Atividade que envolvia criar um éspecie de algoritmo simples interage com o usuário no contexto de um atendimento de fastfood/restaurante.
 O principal conhecimento estudado nessa atividade foi a estrutura condicional if/else.
@@ -92,3 +112,4 @@ if(combo == "sim") {
 }
 ```
 __________________________________________________________________________________
+### Atvidade 2 - Lanche
